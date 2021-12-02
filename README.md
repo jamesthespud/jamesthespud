@@ -1,0 +1,4 @@
+- 👋 Hi, I’m James aka @jamesthespud
+- 👀 I’m interested in Front and Back end Web Devolpment 
+- 🌱 I’m currently learning HTML, CSS and Python 
+- 📫 How to reach me Twitter @jamesthespud
