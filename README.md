@@ -1,4 +1,5 @@
 - 👋 Hi, I’m James aka @jamesthespud
 - 👀 I’m interested in Front and Back end Web Devolpment 
 - 🌱 I’m currently learning HTML, CSS and Python 
+- 🌱 Currently working on 100 Days of code
 - 📫 How to reach me Twitter @jamesthespud
